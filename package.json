@@ -26,12 +26,12 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/FormidableLabs/react-native-app-auth.git"
+    "url": "git+https://github.com/Joshuaasare/react-native-app-auth-ext.git"
   },
   "bugs": {
-    "url": "https://github.com/FormidableLabs/react-native-app-auth/issues"
+    "url": "https://github.com/Joshuaasare/react-native-app-auth-ext/issues"
   },
-  "homepage": "https://github.com/FormidableLabs/react-native-app-auth",
+  "homepage": "https://github.com/Joshuaasare/react-native-app-auth-ext",
   "keywords": [
     "react",
     "react-native",
@@ -41,7 +41,7 @@
     "oauth2",
     "appauth"
   ],
-  "author": "kadi.kraman@formidable.com",
+  "author": "joshuaasare",
   "license": "MIT",
   "peerDependencies": {
     "react-native": ">=0.63.0"
